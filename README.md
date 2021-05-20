@@ -2,8 +2,7 @@
 
 Here are some quick things about me:
 
-- 🔭 I'm a software developer from Earth.
-- ⚗️ A lover of finance, current topics, space and real life project implementation.
+- 🔭 I'm a software developer from London.
 - 👨‍💻 I am working on Vython [programming language](https://github.com/cvython/Vython)!
 
 
